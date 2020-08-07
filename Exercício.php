@@ -1,6 +1,6 @@
 <?php
 
-if ($n%2)
+if ($num%2)
 {
     echo 'é ímpar';
 }
