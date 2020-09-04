@@ -5,7 +5,6 @@ $numero2 = $_GET['numero2'];
 
 Echo  "Infome o primeiro numero :</br>" ;
 Echo  "Informe o segundo numero: </br>";
-
 $soma == $numero1 + $numero2;
 echo "A soma dos numeros e :</br> $soma";
 
@@ -17,6 +16,5 @@ echo "A multiplicação  dos numeros e :</br> $mult";
 
 $div == $numero1 / $numero2;
 echo "A divisão   dos numeros e :</br> $div";
-
 //var_dump($numero1);
 //var_dump($numero2);
